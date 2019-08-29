@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DroneStatus</string>
+    <string name="title_Drone0">Drone1</string>
+    <string name="title_Drone1">Drone2</string>
+    <string name="title_Drone2">Drone3</string>
+    <string name="title_Drone3">Drone4</string>
+</resources>

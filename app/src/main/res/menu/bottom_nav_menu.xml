@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Drone0"
+        android:enabled="true"
+        android:visible="true"
+        android:checked="true"
+        android:title="@string/title_Drone0" />
+
+    <item
+        android:id="@+id/Drone1"
+        android:enabled="true"
+        android:visible="true"
+        android:checked="true"
+        android:title="@string/title_Drone1" />
+
+    <item
+        android:id="@+id/Drone2"
+        android:enabled="true"
+        android:visible="true"
+        android:checked="true"
+        android:title="@string/title_Drone2" />
+    <item
+        android:id="@+id/Drone3"
+        android:enabled="true"
+        android:visible="true"
+        android:checked="true"
+        android:title="@string/title_Drone3" />
+
+</menu>
